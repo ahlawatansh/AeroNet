@@ -1,0 +1,10 @@
+torch
+torchvision
+scikit-learn
+fastapi
+uvicorn
+jinja2
+python-multipart
+Pillow
+ultralytics
+opencv-python-headless

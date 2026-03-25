@@ -1,0 +1,27 @@
+{
+  "train_counts": {
+    "bird": 1285,
+    "drone": 1999
+  },
+  "val_counts": {
+    "bird": 322,
+    "drone": 500
+  },
+  "class_names": [
+    "bird",
+    "drone"
+  ],
+  "validation_accuracy": 0.98661800486618,
+  "confusion_matrix": [
+    [
+      317,
+      5
+    ],
+    [
+      6,
+      494
+    ]
+  ],
+  "image_size": 160,
+  "feature_backbone": "resnet18_imagenet"
+}
