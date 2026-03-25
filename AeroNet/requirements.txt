@@ -1,7 +1,8 @@
 torch
 torchvision
 scikit-learn
-fastapi
+fastapi==0.104.1
+starlette==0.27.0
 uvicorn
 jinja2
 python-multipart
